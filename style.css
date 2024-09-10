@@ -1,8 +1,10 @@
-.img-albums{
-    height: 20%;
-    width: 20%;
+.img-album{
+    height: 80%;
+    width: 80%;
+
+    position: relative;
 }
 
 .album{
-    margin: 10px 0;
+    margin: 5px 0;
 }
